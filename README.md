@@ -1,8 +1,8 @@
-# 🌿 谷歌生草机 - Google Translate Grass Machine
+# 🌿 谷歌生草机
 
 ## 介绍 📖
 
-谷歌生草机利用 Google 翻译的特点，通过多次随机翻译，将文本内容逐渐变得荒谬有趣。这种方法可以有效地生成生草内容，适合用于娱乐和实验。本程序基于 [ReturnZeroGirl/GoogleTranslateMakeGrass](https://github.com/ReturnZeroGirl/GoogleTranslateMakeGrass) 项目，进行了改进和扩展。
+谷歌生草机利用**Google 翻译**是机器翻译的特点实现“生草🌿”效果。如果只是翻译一次，大体还是有95%的准确度的，但是当使用谷歌翻译选择小语种，然后小语种再翻译到另一个小语种，重复翻译多遍后，内容就会疯狂失真，准确度也会随着翻译次数开始偏离原来的真正的意思。通过多次随机翻译，文本内容会逐渐变得荒谬有趣。本程序基于 [ReturnZeroGirl/GoogleTranslateMakeGrass](https://github.com/ReturnZeroGirl/GoogleTranslateMakeGrass) 项目，进行了改进和扩展。
 
 ## 功能特点 ✨
 
